@@ -35,6 +35,6 @@ The goal is to predict the average delay (in minutes) caused by various traffic 
 
 ### A bar and scatter chart comparing actual vs predicted delay values. ###
 
-![Output 2](https://github.com/kavikumaran555/Decision-Tree-Regression-on-Traffic-Delay-Data/blob/main/Decision%20Tree%20Regression%20on%20Traffic%20Delay%20Data2.png_)
+![Output 2](https://github.com/kavikumaran555/Decision-Tree-Regression-on-Traffic-Delay-Data/raw/main/Decision%20Tree%20Regression%20on%20Traffic%20Delay%20Data2.png_)
 
 
